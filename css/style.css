@@ -33,4 +33,35 @@ div {
 
 #red {
     background-color: #ff0000;
+    text-align: right;
+}
+
+#blue {
+    background-color: #000fff;
+    text-align: left;
+}
+
+#yellow {
+    background-color: #ffff00;
+    text-align: right;
+}
+
+#yellow h2{
+    color: black;
+    text-shadow: 4px 4px 2px #c7e2c7;
+}
+
+#yellow p {
+    color: black;
+}
+
+#green {
+    background-color: #008000;
+    text-align: left;
+}
+
+footer p {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 10px;
 }
