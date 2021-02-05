@@ -1,7 +1,7 @@
 body {
     background-color: #000000;
     color: #ffffff;
-    font-family: "times new roman", sans-serif;
+    font-family: "Times New Roman", sans-serif;
 }
 
 h1 {
@@ -27,7 +27,7 @@ img {
 }
 
 div {
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
@@ -37,7 +37,7 @@ div {
 }
 
 #blue {
-    background-color: #000fff;
+    background-color: #0000ff;
     text-align: left;
 }
 
@@ -64,4 +64,6 @@ footer p {
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
 }
